@@ -6,7 +6,7 @@ a=5
 
 b=2
 
-# Add both variable and Subtraction store in variable c
+# Subtraction store in variable c
 
 c=a-b
 
